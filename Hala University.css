@@ -47,7 +47,7 @@
  .main-box{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(#000000bb, #000000bb), url("Hala.png");
+    background-image: linear-gradient(#000000bb, #000000bb), url("./images/Hala.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
